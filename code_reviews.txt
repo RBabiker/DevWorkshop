@@ -6,6 +6,10 @@ Differences:
 Microsoft - focused how you say it and the way it is communicated
 Yelp - focused on what you say and technicalities.
 
+What should be present:
+Very concise specific feedback so that the person can actually improve their code. Make sure both parties are speaking in a respectful manner. 
+
+
 2. https://codereview.stackexchange.com/questions/127180/finding-all-non-empty-directories-and-their-files-on-an-sftp-server-with-paramik
 
 This review was really well written because the person requesting the review was really concise about what they needed help with and all the 
@@ -16,4 +20,5 @@ the person can use and a concise answer on proposed improvements.
 
 Reviewer didn't explain how to fix/improve the code and just submitted a block of code that was apparently the solution. This isn't helpful for the 
 person asking for help because they can't really learn how to fix it and also can't determine whether this solution was the answer to their issue in 
-the first place.
+the first place. It is reccommended that they actually walk the first person through why they are making those changes and how different scenarios
+can affect the code.
