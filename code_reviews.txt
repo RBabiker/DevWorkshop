@@ -1,0 +1,19 @@
+1. Similarities:
+Making sure you're review is clear and suffice so that people can actually benefit from the code review
+Both made sure to emphasize that they aren't insulting both the reviewer and reviewee
+
+Differences:
+Microsoft - focused how you say it and the way it is communicated
+Yelp - focused on what you say and technicalities.
+
+2. https://codereview.stackexchange.com/questions/127180/finding-all-non-empty-directories-and-their-files-on-an-sftp-server-with-paramik
+
+This review was really well written because the person requesting the review was really concise about what they needed help with and all the 
+prereqsuite  information (the function, its use, info about the code overall). The person reviewing made sure to include many different options
+the person can use and a concise answer on proposed improvements. 
+
+3. https://codereview.stackexchange.com/questions/287804/calling-fgets-twice
+
+Reviewer didn't explain how to fix/improve the code and just submitted a block of code that was apparently the solution. This isn't helpful for the 
+person asking for help because they can't really learn how to fix it and also can't determine whether this solution was the answer to their issue in 
+the first place.
